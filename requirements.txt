@@ -1,0 +1,16 @@
+pandas
+geopandas
+shapely
+factor-analyzer
+scikit-learn
+matplotlib
+seaborn
+plotly
+dash
+streamlit
+streamlit_folium
+Folium
+sqlalchemy>=2.0.0
+regex>=2021.8.3
+pytest>=7.0.0
+geopy>=2.2.0
